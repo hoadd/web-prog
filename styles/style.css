@@ -1,0 +1,41 @@
+
+p, li, h2, h4 {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+
+html {
+    font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high */
+    font-family: 'Merriweather', sans-serif;
+    background-color: #3AF23A;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: right;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: -3px -3px 1px green;
+}
+
+p, li {
+    font-size: 40px;
+    line-height: 3;
+    letter-spacing: 10px;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #F2933A;
+    padding: 100 100px 20px 200px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
